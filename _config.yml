@@ -23,13 +23,13 @@ repository               : "katiehermanson/katiehermanson.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot-reduced/jpg"
+  avatar           : "headshot.jpg"
   name             : "Katie Hermanson"
   pronouns         : # example: "she/her"  
   bio              : "Astrophysics Student"
   location         : "CSU East Bay"
-  employer         : "Red Brick University"
-  uri              : # URL
+  #employer         : "Red Brick University"
+  #uri              : # URL
   email            : "khermanson@horizon.csueastbay.edu" 
 
   # Academic websites
