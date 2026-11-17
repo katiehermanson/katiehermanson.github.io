@@ -18,23 +18,18 @@ Research Experience
 ======
 * **Undergraduate Research Assistant, Fall 2022-Spring 2027**
   * Department of Physics, California State University, East Bay, Hayward, CA
-  * <h5>Lab of Dr. Derek Jackson Kimball</h5>
-  * Conducted direct detection dark matter research involving taking magnetometry measurements, building electronics, and managing field expeditions.
-  * Performed multi-year data collection and analysis in conjunction with international
-collaborators.
+  * Lab of Dr. Derek Jackson Kimball
+  * ##### Conducted direct detection dark matter research involving taking magnetometry measurements, building electronics, and managing field expeditions. Performed multi-year data collection and analysis in conjunction with international collaborators. #####
 
 * **Undergraduate Research Assistant, Summer 2024-Spring 2027**
   * Carnegie Observatories, Pasadena, CA
-  * <h5>Lab of Dr. Stayc Kim</h5>
-  * Coded scripts in Python to analyze hydrodynamical simulation outputs in the form of low-mass galaxies across multiple dark matter models.
-  * Explored impacts of baryonic physics on star and galaxy formation in the early universe.
+  * Lab of Dr. Stacy Kim
+  * ##### Coded scripts in Python to analyze hydrodynamical simulation outputs in the form of low-mass galaxies across multiple dark matter models. Explored impacts of baryonic physics on star and galaxy formation in the early universe. #####
 
 * **Summer Research Assistant, Summer 2025**
   * Gravity Exploration Institute, University of Cardiff, Cardiff, Wales, UK
   * Lab of Dr. Fabio Antonini
-  * Contributed to the next generation of gravitational wave detectors by modelling spin-induced precession of binary black hole systems.
-  * Performed statistical parameter estimation of gravitational wave signals using a
-two-harmonic approximation method.
+  * ##### Contributed to the next generation of gravitational wave detectors by modelling spin-induced precession of binary black hole systems. Performed statistical parameter estimation of gravitational wave signals using a two-harmonic approximation method. #####
   
 Teaching and Mentoring Experience
 ======
@@ -61,11 +56,11 @@ Honors, Awards, and Prizes
 
 Publications
 ======
-  <ul>{% for post in site.teaching reversed %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
+Conference Presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
