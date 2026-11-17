@@ -12,7 +12,7 @@ Hi! I'm Katie, a fifth year undergraduate physics and astronomy student at Calif
 ---
 
 ## About Me ##
-![Grad Slam](/images/gradslam.jpg)
+![Grad Slam](images/gradslam.jpg)
 *Katie and Derek at CSU East Bay's Grad Slam 2024.*
 
 ### Excerpt from CSU East Bay's Science Stories 2026: ###
