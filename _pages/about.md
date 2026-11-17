@@ -10,12 +10,10 @@ redirect_from:
 Hi! I'm Katie, a fifth year undergraduate physics and astronomy student at California State University East Bay in Hayward, CA. Feel free to browse my Publications, Talks, and CV pages. Thanks for stopping by!
 
 ---
-*** About Me ***
-<figure>
-    <img src="/images/gradslam.jpg"
-         alt="Katie and Derek at Grad Slam">
-    <figcaption>2nd Place at CSU East Bay Grad Slam, April 2024.</figcaption>
-</figure>
+
+## About Me ##
+![Grad Slam](/images/gradslam.jpg)
+*Katie and Derek at CSU East Bay's Grad Slam 2024.*
 
 ### Excerpt from CSU East Bay's Science Stories 2026: ###
 
