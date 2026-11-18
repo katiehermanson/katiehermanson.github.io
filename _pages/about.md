@@ -16,6 +16,7 @@ Hi! I'm Katie, a fifth year undergraduate physics and astronomy student at Calif
 *Katie and Derek at CSU East Bay's Grad Slam 2024.*
 
 ### Excerpt from CSU East Bay's Science Stories 2026: ###
+<img src="/images/sciencestories.jpg" width="300">
 
 Katie Hermanson, a fifth-year Physics and Astronomy major, counts herself among the many dedicated and passionate East Bay undergraduate scholars. Originally starting a career as a social worker with a B.A. in Psychology from the University of Colorado, Katie returned to school after a period of reflection and found deeper satisfaction and purpose in pursuing answers to the largest questions of the cosmos as part of the East Bay Physics community.
 
