@@ -28,17 +28,23 @@ As a Ph.D. program applicant, Katie was awarded the CSU Sally Casanova Pre-Docto
 
 ---
 
-<img src="/images/spitzer.jpg" alt="Spitzer 2024" width="400">
-*Katie presenting her research at the Spitzer Seminar, CSU East Bay, Fall 2024.*
-
-<img src="/images/llandaff.jpg" alt="Llandaff Cathedral" width="400">
-<img src="/images/stmarys.jpg" alt="St. Mary's Church" width="400">
-
 ![Spitzer 2024](/images/spitzer.jpg)
 *Katie presenting her research at the Spitzer Seminar, CSU East Bay, Fall 2024.*
 
 ![SNIPE](/images/snipe.jpg)
 *SNIPE Hunt expedition for dark matter in the wilderness, Summer 2023.*
+
+![Llandaff Cathedral](/images/llandaff.jpg)
+*At Llandaff Cathedral in Wales, Summer 2025.*
+
+![St. Mary's Church](/images/stmarys.jpg)
+*At St. Mary's in Tintern, Wales, Summer 2025.*
+
+<p float="left">
+  <img src="/spitzer.jpg" width="100" />
+  <img src="/llandaff.jpg" width="100" /> 
+  <img src="/stmarys.jpg" width="100" />
+</p>
 
 
 ---
