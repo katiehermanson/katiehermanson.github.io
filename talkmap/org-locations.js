@@ -10,13 +10,13 @@ var addressPoints = [
     -122.0622122
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
-  ],
-  [
     "Globular Cluster-like Dwarf Galaxies in the EDGE2 Simulation Suite<br />American Physical Society Far West Section Meeting 2024; Cal Poly Humboldt, CA, USA",
     40.8764763,
     -124.0800564
+  ],
+  [
+    "Hunting for Axions and Hidden Photons in the Wilderness: The Search for Non-Interacting Particles Experimental Hunt (SNIPE Hunt)<br />American Physical Society April Meeting 2024; Sacramento, CA, USA",
+    38.5810606,
+    -121.493895
   ]
 ];
