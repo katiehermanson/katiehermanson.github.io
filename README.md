@@ -1,12 +1,9 @@
 # Katie's Page
-Under Construction!
+This is the Academic Page for Katie Hermanson! Currently under construction. :)
 
+---
 
-# Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
-
-![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
-
+**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.** This template was forked from the Minimal Mistakes Jekyll Theme created by Michael Rose.
 ---
 <div align="center">
     
