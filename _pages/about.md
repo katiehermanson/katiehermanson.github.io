@@ -28,6 +28,12 @@ As a Ph.D. program applicant, Katie was awarded the CSU Sally Casanova Pre-Docto
 
 ---
 
+<img src="/images/spitzer.jpg" alt="Spitzer 2024" width="400">
+*Katie presenting her research at the Spitzer Seminar, CSU East Bay, Fall 2024.*
+
+<img src="/images/llandaff.jpg" alt="Llandaff Cathedral" width="400">
+<img src="/images/stmarys.jpg" alt="St. Mary's Church" width="400">
+
 ![Spitzer 2024](/images/spitzer.jpg)
 *Katie presenting her research at the Spitzer Seminar, CSU East Bay, Fall 2024.*
 
