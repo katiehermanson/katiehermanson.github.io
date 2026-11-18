@@ -10,9 +10,9 @@ var addressPoints = [
     -122.272863
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Globular Cluster-like Dwarf Galaxies in the EDGE2 Simulation Suite<br />American Physical Society Far West Section Meeting 2024; Cal",
+    39.0565974,
+    16.5249864
   ],
   [
     "Globular Cluster-like Dwarf Galaxies in Cold and Warm Dark Matter<br />245th Meeting of the American Astronomical Society; National Harbor, MD, USA",
