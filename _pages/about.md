@@ -34,16 +34,16 @@ As a Ph.D. program applicant, Katie was awarded the CSU Sally Casanova Pre-Docto
 ![SNIPE](/images/snipe.jpg)
 *SNIPE Hunt expedition for dark matter in the wilderness, Summer 2023.*
 
-![Llandaff Cathedral](/images/llandaff.jpg)
-*At Llandaff Cathedral in Wales, Summer 2025.*
+![Cardiff Castle](/images/cardiff.jpg)
+*At Cardiff Castle in Wales, Summer 2025.*
 
 ![St. Mary's Church](/images/stmarys.jpg)
 *At St. Mary's in Tintern, Wales, Summer 2025.*
 
 <p float="left">
-  <img src="/spitzer.jpg" width="100" />
-  <img src="/llandaff.jpg" width="100" /> 
-  <img src="/stmarys.jpg" width="100" />
+  <img src="/images/spitzer.jpg" width="200" />
+  <img src="/images/llandaff.jpg" width="200" /> 
+  <img src="/images/stmarys.jpg" width="200" />
 </p>
 
 
