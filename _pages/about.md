@@ -37,15 +37,11 @@ As a Ph.D. program applicant, Katie was awarded the CSU Sally Casanova Pre-Docto
 ![Cardiff Castle](/images/cardiff.jpg)
 *At Cardiff Castle in Wales, Summer 2025.*
 
-![St. Mary's Church](/images/stmarys.jpg)
-*At St. Mary's in Tintern, Wales, Summer 2025.*
-
 <p float="left">
-  <img src="/images/spitzer.jpg" width="200" />
-  <img src="/images/llandaff.jpg" width="200" /> 
-  <img src="/images/stmarys.jpg" width="200" />
+  <img src="/images/llandaff.jpg" width="350" /> 
+  <img src="/images/stmarys.jpg" width="350" />
 </p>
-
+*At Llandaff Cathedral and St. Mary's in Tintern, Wales, Summer 2025.*
 
 ---
 
