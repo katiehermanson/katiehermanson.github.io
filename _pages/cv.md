@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+---
+
 Education 
 ======
 * B.S in Physics, Minor in Astronomy, California State University, East Bay (expected May 2027)
@@ -17,19 +19,18 @@ Education
 Research Experience
 ======
 * **Undergraduate Research Assistant, Fall 2022-Spring 2027**
-  * Department of Physics, California State University, East Bay, Hayward, CA
-  * Lab of Dr. Derek Jackson Kimball
-  * ### Conducted direct detection dark matter research involving taking magnetometry measurements, building electronics, and managing field expeditions. Performed multi-year data collection and analysis in conjunction with international collaborators. ###
+  * Department of Physics, California State University, East Bay, Hayward, CA, <font color="darkblue">Lab of Dr. Derek Jackson Kimball</font>
+  * Conducted direct detection dark matter research involving taking magnetometry measurements, building electronics, and managing field expeditions. Performed multi-year data collection and analysis in conjunction with international collaborators.
 
 * **Undergraduate Research Assistant, Summer 2024-Spring 2027**
   * Carnegie Observatories, Pasadena, CA
   * Lab of Dr. Stacy Kim
-  * ### Coded scripts in Python to analyze hydrodynamical simulation outputs in the form of low-mass galaxies across multiple dark matter models. Explored impacts of baryonic physics on star and galaxy formation in the early universe. ###
+  * Coded scripts in Python to analyze hydrodynamical simulation outputs in the form of low-mass galaxies across multiple dark matter models. Explored impacts of baryonic physics on star and galaxy formation in the early universe.
 
 * **Summer Research Assistant, Summer 2025**
   * Gravity Exploration Institute, University of Cardiff, Cardiff, Wales, UK
   * Lab of Dr. Fabio Antonini
-  * ### Contributed to the next generation of gravitational wave detectors by modelling spin-induced precession of binary black hole systems. Performed statistical parameter estimation of gravitational wave signals using a two-harmonic approximation method. ###
+  * Contributed to the next generation of gravitational wave detectors by modelling spin-induced precession of binary black hole systems. Performed statistical parameter estimation of gravitational wave signals using a two-harmonic approximation method.
   
 Teaching and Mentoring Experience
 ======
