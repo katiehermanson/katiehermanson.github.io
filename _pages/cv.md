@@ -11,6 +11,10 @@ redirect_from:
 
 ---
 
+[Click to download PDF](/files/Katie_Hermanson_CV.pdf)
+
+---
+
 Education 
 ======
 * B.S in Physics, Minor in Astronomy, California State University, East Bay (expected May 2027)
@@ -23,7 +27,7 @@ Research Experience
   * Conducted direct detection dark matter research involving taking magnetometry measurements, building electronics, and managing field expeditions. Performed multi-year data collection and analysis in conjunction with international collaborators.
 
 * **Undergraduate Research Assistant, Summer 2024-Spring 2027**
-  * Carnegie Observatories, Pasadena, CA <font color="darkblue">Lab of Dr. Stacy Kim</font>
+  * Carnegie Observatories, Pasadena, CA, <font color="darkblue">Lab of Dr. Stacy Kim</font>
   * Coded scripts in Python to analyze hydrodynamical simulation outputs in the form of low-mass galaxies across multiple dark matter models. Explored impacts of baryonic physics on star and galaxy formation in the early universe.
 
 * **Summer Research Assistant, Summer 2025**
